@@ -3,14 +3,16 @@
 
 
 Market System
-This is a System for simple stocking and selling.
-You can Sell the items or trace the stock of the items.
-The target audience is market owners. By using this program you can add,trace or sell the products.
+This project is a simple console-based market management system written in Python.
+Target Audience: Beginner Python students or anyone learning to manage data with classes and file operations.
+By using this program you can add,trace or sell the products.
 
 
 Contepts for this project:
 Class and Object creation
 File Operations
+Attributes and methods
+
 
 Author: Hikmet Ok
 Course: CMP242 (OOP2)
