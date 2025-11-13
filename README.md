@@ -1,4 +1,4 @@
-🛒 Simple Market System
+🛒 Market System
 📄 Project Overview
 This project is a simple console-based market management system written in Python.
 It allows users to:
@@ -32,9 +32,9 @@ File operations (read/write)
 
 
 📁 File Structure
-simple_market/
+Market_system/
 │
-├── simple_market.py      # main program file
+├── market_system.py      # main program file
 ├── products.txt          # stores product data
 └── README.md             # project description
 
@@ -54,7 +54,7 @@ Make sure you have Python 3 installed.
 Create a file named products.txt in the same folder as the program.
 Add some sample products (like in the example above).
 Run the program in the terminal:
-python simple_market.py
+python Market_system.py
 Use the menu options to list, sell, or add products.
 
 
