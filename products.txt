@@ -1,0 +1,8 @@
+Egg,60.0,5
+Bread,15.0,100
+Potato,80.0,40
+Cereal,120.0,15
+Chicken,80.0,10
+Rice,40.0,15
+Pasta,30.0,5
+Coffee,50.0,100
